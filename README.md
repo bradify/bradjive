@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bradjive
+- 👋 Hi, I’m @bradify
 - 👀 I’m interested in learning about how tech companies can make the world a better place.
 - 🌱 I’m currently re-learning data structure and algorithm implementations. 
 - 💞️ I’m looking to collaborate on simple C#-based solutions to technical program management, sourcing energy from renewable sources, and music 
